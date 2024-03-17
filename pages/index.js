@@ -5,7 +5,6 @@ import Footer from '@components/Footer'
 export default function Home() {
   console.log('12345678')
   var aaaa=123434
-  console.log(request)
   return (
     <div className="container">
       <Head>
@@ -16,7 +15,7 @@ export default function Home() {
       <main>
         <Header title="Welcome to my app!" />
         <p className="description">
-          Hola mundo
+          Hola mundo 2
         </p>
       </main>
 

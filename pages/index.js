@@ -3,6 +3,7 @@ import Header from '@components/Header'
 import Footer from '@components/Footer'
 
 export default function Home() {
+  console.log('12345678')
   return (
     <div className="container">
       <Head>
